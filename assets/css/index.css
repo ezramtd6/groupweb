@@ -1,0 +1,26 @@
+
+.container{
+
+    margin-top: 3rem;
+}
+
+.second_profile{
+
+    margin-top: 7rem;
+}
+
+.card{
+
+    border: none;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(209, 209, 209, 0.2), 0 6px 20px 0 rgba(175, 174, 174, 0.19);
+    cursor: pointer;
+    transition: transform 0.5s;
+    background-color:#1d1d1d;
+}
+
+.card:hover{
+
+    transform: translateY(-20px);
+}
+

@@ -1,0 +1,45 @@
+.skills-menu{
+
+    background-color: rgba(55,55,55,0.3);
+    scroll-behavior: smooth;  
+}
+
+.menu-container{
+
+   position: fixed;
+    top: 1;
+    width: 100%;
+    z-index: 1;
+  }
+
+.menu-items{
+
+    text-decoration: none;
+    color: white;
+    font-family: 'Acme', sans-serif;
+    font-size: 1.3rem;
+}
+
+.first-item, .second-item{
+
+    border-right: 1px solid grey; 
+}
+
+.first-item:hover{
+
+    color: rgb(186, 223, 25);
+    text-decoration: none;
+}
+
+.second-item:hover{
+
+    color: rgb(186, 223, 25);
+    text-decoration: none;
+}
+
+
+.third-item:hover{
+
+    color: rgb(186, 223, 25);
+    text-decoration: none;
+}

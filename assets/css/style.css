@@ -1,0 +1,41 @@
+body{
+
+    background-color: #1d1d1d;
+}
+
+.fas{
+
+    font-size: 1rem;
+}
+
+nav{
+
+    font-size: 1.1rem;
+    font-family: 'RocknRoll One', sans-serif; 
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-link:hover{
+
+    color: rgb(60, 60, 156) !important;
+}
+
+footer{
+
+    color: white;
+    background-color: #141516;
+}
+
+.smedia-icons {
+
+    font-size: 1.5rem;
+    color: white;
+}
+
+.footer-info{
+
+    font-size: 0.8rem;
+}

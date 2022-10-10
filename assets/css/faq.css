@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda&family=Kufam:wght@700&family=Passion+One&family=Ramabhadra&display=swap');
+
+body{
+
+    color: white;
+}
+
+.contact_article{
+
+  font-size: 1.3em;
+  text-align: center;
+}
+
+.display-4{
+
+  font-family: 'Coda', cursive;
+  letter-spacing: normal;
+  font-size: 2.3rem;
+ 
+  
+}
+
+
+.form{
+
+  margin-bottom: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
